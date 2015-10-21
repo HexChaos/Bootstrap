@@ -244,3 +244,5 @@ _Pvt_Extensions
 *.vcxproj
 *.tlog
 *.idb
+*.iobj
+*.ipdb
